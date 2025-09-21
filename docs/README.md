@@ -1,20 +1,14 @@
 <p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
 
-<h1 align="center">CraftLaunch</h1>
+<h1 align="center">NationVCRP Launcher</h1>
 
 [<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
-![Discord](https://img.shields.io/discord/819729377650278420?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/luuxis/Selvania-Launcher?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/CookieDevs/NationVCRP-Launcher/total?style=for-the-badge)
+![Discord](https://img.shields.io/discord/1144243240246198314?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/CookieDevs/NationVCRP-Launcher?style=for-the-badge)
 [<p align="center">]()
-![GitHub forks](https://img.shields.io/github/forks/luuxis/Selvania-Launcher?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/luuxis/Selvania-Launcher?style=for-the-badge)
-
-<p align="center">
-    <a href="http://discord.luuxis.fr">
-        <img src="https://invidget.switchblade.xyz/e9q7Yr2cuQ">
-    </a>
-</p>
+![GitHub forks](https://img.shields.io/github/forks/CookieDevs/NationVCRP-Launcher?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/CookieDevs/NationVCRP-Launcher?style=for-the-badge)
 
 ---
 📝 Licence : Luuxis License v1.0 (voir fichier LICENSE pour les détails en FR/EN)
@@ -74,9 +68,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
+| Windows x64 | `NationVCRP-Launcher-win-x64.exe ` |
+| macOS x64 | `NationVCRP-Launcher-mac-x64.dmg` |
+| macOS arm64 | `NationVCRP-Launcher-mac-arm64.dmg` |
+| Linux x64 | `NationVCRP-Launcher-linux-x86_64.AppImage` |
 
 ---
